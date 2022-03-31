@@ -1,1 +1,26 @@
-
+{
+    "menus": [
+        {
+            "id": 1,
+            "name": "Fried Rice",
+            "description": "Rice, but fried",
+            "image_url": "",
+            
+            "category_id": 1,
+            "order_type_id": 1,
+            "out_of_stock": false,
+            "hotel_id": 1
+        },
+        {
+            "id": 1,
+            "name": "Fried Fries",
+            "description": "Fries /Potato, but fried",
+            "image_url": "",
+            
+            "category_id": 2,
+            "order_type_id": 1,
+            "out_of_stock": false,
+            "hotel_id": 1
+        }
+    ]
+}
